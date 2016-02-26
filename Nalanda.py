@@ -2,9 +2,10 @@
 #courses. This saves the time to search for subjects and click on them manually.
 #you need to be login initially.
 
-
 import webbrowser
-courses=open("courses.txt")
+
+path="D:\somefolder\...\Nalanda"     #the path of the folder which contains all this.
+courses=open(path+"\courses.txt")
 for line in courses:
     id_=""
     for a in line:
