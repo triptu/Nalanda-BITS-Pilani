@@ -1,0 +1,7 @@
+4146   Electrical Science
+3987   EG
+4250   Math 2
+4350   MEOW
+4098   CP
+4251   Prob&Stats
+3988   Thermo

@@ -1,0 +1,1 @@
+@python D:\DC++Share\BITS\Nalanda\Nalanda.py %*
