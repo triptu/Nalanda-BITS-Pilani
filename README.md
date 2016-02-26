@@ -14,7 +14,9 @@ Steps to make the program work:
 
 3. Update the courses text file with the course ids of your courses. By deafault it contains the courses of 1-2. You can write the course    name or any other detail separating it by space.
 
-4. Add the folder location to Path function. If you don't know how to do it go here, https://www.java.com/en/download/help/path.xml .
+4. Add the folder files location to path variable in program.
+
+5. Add the folder location to System Path variable. If you don't know how to do it go here, https://www.java.com/en/download/help/path.xml .
 
 
 *This program will have more features in future.*
