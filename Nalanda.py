@@ -1,5 +1,3 @@
-
-
 import webbrowser
 
 path="D:\somefolder\...\Nalanda"     #the path of the folder which contains all this.
