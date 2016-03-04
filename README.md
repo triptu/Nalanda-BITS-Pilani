@@ -1,5 +1,5 @@
 # Nalanda-BITS-Pilani
-This program is specific to student of BITS Pilani Pilani Campus. Nalanda is our course website where all the slides and other informations are uploaded.
+This program is specific to student of BITS Pilani, Pilani Campus. Nalanda is our course website where all the slides and other informations are uploaded.
 
 Currently the program features opening all the webpages of your curriculum from commandline or run. That is you just have to type "nalanda" in cmd or run to open the course pages. You just have to be login in Nalanda in your default browser using your login credentials.
 
